@@ -23,14 +23,13 @@ function HomepageHeader() {
             showIndicators={false}
           >
             <div>
-              <img src="img/gachi/img1.jpg" alt="Image 1" />
+              <img src="img/pitch-deck.001.jpg" alt="Pitch 1" />
             </div>
             <div>
-              <img src="img/gachi/img2.jpg" alt="Image 1" />
-             
+              <img src="img/pitch-deck.002.jpg" alt="Pitch 2" />
             </div>
             <div>
-            <img src="img/gachi/img3.jpg" alt="Image 1" />
+              <img src="img/pitch-deck.003.jpg" alt="Pitch 3" />
             </div>
           </Carousel>
         </div>
