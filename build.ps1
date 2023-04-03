@@ -6,4 +6,5 @@ cd ..
 git add .
 git commit -m "Update on build $(get-date)"
 git push
+gh repo view -w
 
