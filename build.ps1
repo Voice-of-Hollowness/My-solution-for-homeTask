@@ -1,4 +1,4 @@
-rm build 
+rm docs
 cd sources
 npm run build
 mv build ..\docs
