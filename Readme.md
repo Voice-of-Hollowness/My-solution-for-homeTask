@@ -23,3 +23,17 @@ My simple web page with simple web page
 6. Youtube video embeded into web page.
 
 
+## Build logoic 
+
+The build logic could be found in **build.ps1**	
+
+```powershell
+rm docs
+cd sources
+npm run build
+mv build ..\docs
+cd ..
+git add .
+git commit -m "Update on build $(get-date)"
+git push
+```
