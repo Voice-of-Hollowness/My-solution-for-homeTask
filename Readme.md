@@ -1,6 +1,6 @@
 # iOnePage
 
-- [Web page link](https://voice-of-hollowness.github.io/My-solution-for-homeTask/)
+Привіт! Я дуже дивний iOne я сильно полюлюяю [Гачимучі](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%87%D0%B8%D0%BC%D1%83%D1%87%D0%B8), Маму і програмування. Але я зандадто ~~тупий~~ неорганізований аби стоврювати сайти самостійно 
 
 <img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fvoice-of-hollowness.github.io%2FMy-solution-for-homeTask%2F&chs=180x180&choe=UTF-8&chld=L|2" rel="nofollow" alt="qr code"><a href="www.qr-code-generator.com/" border="0" style="cursor:default" rel="nofollow"></a>
 
