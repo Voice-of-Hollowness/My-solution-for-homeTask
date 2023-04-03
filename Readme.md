@@ -16,6 +16,17 @@
 > Our webPageHost 
 
 
+## Instruciton
+
+> Install docusurus
+
+`npx create-docusaurus@latest my-website classic`
+
+> Install carouse 
+
+`npm install react-responsive-carousel`	
+
+
 ## Idea
 My simple web page with simple web page
 
