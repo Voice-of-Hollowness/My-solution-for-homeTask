@@ -1,6 +1,6 @@
 # iOnePage
 
-Привіт! Я дуже дивний iOne я сильно полюлюяю [Гачимучі](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%87%D0%B8%D0%BC%D1%83%D1%87%D0%B8), Маму і програмування. Але я зандадто ~~тупий~~ неорганізований аби стоврювати сайти самостійно 
+iOne - це не тільки сторінка що допоможе студентам самостійно створювати сайти, а ще й ~~розумна~~ веселий [паронім](https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%BD%D1%96%D0%BC%D0%B8) до мого імені
 
 - [Web page link](https://voice-of-hollowness.github.io/My-solution-for-homeTask/)
 
@@ -13,7 +13,7 @@
 > Our core Engine that turns our idea into web page
 
 - [Marpit](https://marpit.marp.app/)
-> Whatever shit Yuriy use to make those f*cking slide showes
+> Whatever shit Yuriy(my boss) use to make those f*cking slide showes
 
 - [Github Pages]()
 > Our webPageHost 
