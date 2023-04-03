@@ -1,8 +1,14 @@
 ---
-theme: default
+theme: gaia
+class:
+  - lead
+  - invert
 ---
 
-# My Awesome Pitch Deck
+# IOnePage
+# 📝💻🚀
+
+> Easy way to make page from iOne
 
 ---
 
